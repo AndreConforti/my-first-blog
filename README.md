@@ -34,6 +34,7 @@ python manage.py runserver
 
 ## Usage
 To access the blog, open a web browser and go to **http://localhost:8000/**.
+To be able to add, edit and delete posts, you must log in as an administrator at the link **http://localhost:8000/admin/** and you must access with the superuser credentials created previously.
 
 To create a new blog post, click on the "**New Post**" button on the top right corner of the page.
 
